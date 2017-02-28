@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="Yan_test_J_Hardening Table" max_length="40" name="x_snc_yan_test_j_h_yan_test_j_hardening_table" type="collection"/>
+</database>
